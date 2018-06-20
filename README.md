@@ -1,5 +1,10 @@
 ![GitHub Logo](https://github.com/gnea/gnea-Media/blob/master/Grbl%20Logo/Grbl%20Logo%20250px.png?raw=true)
 
+This is a customized version of grbl ready to be uploaded on arduino with no variable splindle.
+
+Look at ![xxreef instructables](https://www.instructables.com/member/xxreef)
+
+
 ***
 _Click the `Release` tab to download pre-compiled `.hex` files or just [click here](https://github.com/gnea/grbl/releases)_
 ***
