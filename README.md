@@ -2,7 +2,7 @@
 
 This is a customized version of grbl ready to be uploaded on arduino with no variable splindle.
 
-Look at ![xxreef instructables](https://www.instructables.com/member/xxreef)
+Look at [xxreef instructables](https://www.instructables.com/member/xxreef)
 
 
 ***
